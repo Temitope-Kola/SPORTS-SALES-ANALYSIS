@@ -1,4 +1,5 @@
 # SPORTS-SALES-ANALYSIS
+![image alt](https://github.com/Temitope-Kola/SPORTS-SALES-ANALYSIS/blob/main/sport%20sales.png?raw=true)
 
 ## By DEBORAH KOLA ADEMOLA
 
