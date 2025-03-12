@@ -77,5 +77,19 @@ The business is thriving in Australia and the U.S., but there is untapped potent
 ___
 
 ## Which Age Group Does The Company"s Product Appeal To Most
+![image alt](https://github.com/Temitope-Kola/SPORTS-SALES-ANALYSIS/blob/main/sports%20images/product_appeal%20.png?raw=true)
+
+Adults (46%) and Young Adults (38%) are the largest buyers.
+Youth (16%) has the lowest engagement with the products.
+
+* Recommendations:
+Develop targeted promotions for the Youth category, such as discounts or influencer marketing.
+Continue optimizing products for Adults and Young Adults since they form the biggest customer base.
+
+* Conclusion:
+Adults and Young Adults drive sales, but there is an opportunity to improve engagement with younger audiences.
+___
+
+## Sales Trend
 ![image alt]()
 
