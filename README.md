@@ -61,3 +61,5 @@ But First a quick inisght into the key performance indicators
 
 ## General Insight On All Key Performing Indicators:
 The business is performing well with a high volume of orders, strong revenue, and impressive profits. However, to sustain and grow profits, the company should focus on expanding into underperforming markets, optimizing pricing strategies, and increasing the popularity of lower-selling products. 
+
+## Revenue Distribution By Region
