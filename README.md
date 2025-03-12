@@ -91,5 +91,17 @@ Adults and Young Adults drive sales, but there is an opportunity to improve enga
 ___
 
 ## Sales Trend
-![image alt]()
+![image alt](https://github.com/Temitope-Kola/SPORTS-SALES-ANALYSIS/blob/main/sports%20images/sales%20trend%20for%20sports%20sales%20analysis.png?raw=true)
 
+Sales increased significantly from 2012 to 2014 but dropped slightly in 2015, followed by another rise in 2016.
+The overall trend shows growth but with some fluctuations.
+* Recommendations:
+* Investigate why sales declined in 2015—was it due to market conditions, competition, or other factors
+* Maintain growth momentum by running seasonal campaigns or loyalty programs to encourage consistent purchases.
+* 
+* Conclusion:
+The sales trend is positive, but the business should focus on maintaining consistent growth and addressing dips in performance.
+___
+
+## Product Popularity
+![image alt]()
