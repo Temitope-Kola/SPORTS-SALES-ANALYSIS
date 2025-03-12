@@ -51,4 +51,13 @@ ___
 * Sales Trend
 
 But First a quick inisght into the key performance indicators
-![image alt]()
+![image alt](https://github.com/Temitope-Kola/SPORTS-SALES-ANALYSIS/blob/main/sports%20images/KPI%20for%20sports%20analysis.png?raw=true)
+
+* The Total Order Quantity: 1,341,925 indicates a strong demand for the company's products. A high number of orders means the business is reaching a broad customer base.
+
+* The Total Revenue: $101,626,604.00, Crossing the $100M mark in revenue shows significant market presence and sales success. This suggests that the company has a solid pricing strategy and effective sales channels.
+ 
+* The Total Profits: $44,525,164.00, A strong profit margin indicates efficient cost management and healthy business operations. The company is not just generating revenue but also ensuring good profitability.
+
+## General Insight On All Key Performing Indicators:
+The business is performing well with a high volume of orders, strong revenue, and impressive profits. However, to sustain and grow profits, the company should focus on expanding into underperforming markets, optimizing pricing strategies, and increasing the popularity of lower-selling products. 
