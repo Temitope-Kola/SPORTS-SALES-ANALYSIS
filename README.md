@@ -40,6 +40,8 @@ ___
 
 ## DATA VISUALIZATION
 This dashboard has a single report page
+
+![image alt](https://github.com/Temitope-Kola/SPORTS-SALES-ANALYSIS/blob/main/sports%20images/sport%20sales_analysis%20dashboard.png?raw=true)
 ___
 
 ## In this analysis, I am interested in finding;
@@ -47,3 +49,6 @@ ___
 * Which Age Group Does The Company"s Product Appeal To Mostky
 * Product Popularity
 * Sales Trend
+
+But First a quick inisght into the key performance indicators
+![image alt]()
