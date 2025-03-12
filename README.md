@@ -32,8 +32,9 @@ ___
 
 ## DATA TRANSFORMATION
 I figured the dataset needed some help columns and using advanced Excel Formulas,I created one, also, using advanced Excel forumlas i did some calculations to further aid discovering hidden patterns
+
 ![image alt](https://github.com/Temitope-Kola/SPORTS-SALES-ANALYSIS/blob/main/sports%20images/data%20manipulation%20for%20sports%20sales%20-%20Copy.png?raw=true)
-![image alt]()
+![image alt](https://github.com/Temitope-Kola/SPORTS-SALES-ANALYSIS/blob/main/sports%20images/data%20transformation%20for%20sports%20sales%20-%20Copy.png?raw=true)
 
 ___
 
