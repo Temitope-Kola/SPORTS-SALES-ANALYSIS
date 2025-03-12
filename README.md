@@ -68,10 +68,10 @@ The business is performing well with a high volume of orders, strong revenue, an
 Australia ($32.3M) and United States ($30.5M) generate the highest revenue.
 Canada ($7.9M) has the lowest revenue among the listed countries.
 
-* Recommendations:
-Expand marketing and distribution efforts in Canada, France, and Germany to increase revenue.
-Strengthen relationships with retailers in high-performing countries (Australia & U.S.) to maintain growth.
-* Conclusion:
+## Recommendations:
+* Expand marketing and distribution efforts in Canada, France, and Germany to increase revenue.
+* Strengthen relationships with retailers in high-performing countries (Australia & U.S.) to maintain growth.
+## Conclusion:
 The business is thriving in Australia and the U.S., but there is untapped potential in other countries that should be explored, simply put,other countries can do better.
 
 ___
@@ -82,11 +82,11 @@ ___
 Adults (46%) and Young Adults (38%) are the largest buyers.
 Youth (16%) has the lowest engagement with the products.
 
-* Recommendations:
-Develop targeted promotions for the Youth category, such as discounts or influencer marketing.
-Continue optimizing products for Adults and Young Adults since they form the biggest customer base.
+## Recommendations:
+* Develop targeted promotions for the Youth category, such as discounts or influencer marketing.
+* Continue optimizing products for Adults and Young Adults since they form the biggest customer base.
 
-* Conclusion:
+## Conclusion:
 Adults and Young Adults drive sales, but there is an opportunity to improve engagement with younger audiences.
 ___
 
@@ -95,13 +95,23 @@ ___
 
 Sales increased significantly from 2012 to 2014 but dropped slightly in 2015, followed by another rise in 2016.
 The overall trend shows growth but with some fluctuations.
-* Recommendations:
+## Recommendations:
 * Investigate why sales declined in 2015—was it due to market conditions, competition, or other factors
 * Maintain growth momentum by running seasonal campaigns or loyalty programs to encourage consistent purchases.
 * 
-* Conclusion:
+## Conclusion:
 The sales trend is positive, but the business should focus on maintaining consistent growth and addressing dips in performance.
 ___
 
 ## Product Popularity
-![image alt]()
+![image alt](https://github.com/Temitope-Kola/SPORTS-SALES-ANALYSIS/blob/main/sports%20images/product%20popularity%20for%20sports%20sales.png?raw=true)
+
+The chart shows the number of orders for different products.
+Tires and Tubes are the most popular, with over 505,515 orders, followed by Bottles and Cages (238,498).
+Caps are the least popular, with only 67,268 orders.
+## Recommendations:
+* Increase marketing for Caps and Jerseys to boost their sales.
+* Consider bundling Caps with other popular items to increase demand.
+* Conduct customer surveys to understand why some products are less popular.
+*  ## Conclusion:
+The company’s focus should remain on high-performing products while finding ways to boost sales of low-performing ones.
