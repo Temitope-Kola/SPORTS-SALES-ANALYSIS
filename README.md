@@ -46,7 +46,7 @@ ___
 
 ## In this analysis, I am interested in finding;
 * Revenue Distribution By Region
-* Which Age Group Does The Company"s Product Appeal To Mostky
+* Which Age Group Does The Company"s Product Appeal To Most
 * Product Popularity
 * Sales Trend
 
@@ -64,3 +64,18 @@ The business is performing well with a high volume of orders, strong revenue, an
 
 ## Revenue Distribution By Region
 ![image alt](https://github.com/Temitope-Kola/SPORTS-SALES-ANALYSIS/blob/main/sports%20images/total%20revenue%20for%20sports%20analysis.png?raw=true)
+
+Australia ($32.3M) and United States ($30.5M) generate the highest revenue.
+Canada ($7.9M) has the lowest revenue among the listed countries.
+
+* Recommendations:
+Expand marketing and distribution efforts in Canada, France, and Germany to increase revenue.
+Strengthen relationships with retailers in high-performing countries (Australia & U.S.) to maintain growth.
+* Conclusion:
+The business is thriving in Australia and the U.S., but there is untapped potential in other countries that should be explored, simply put,other countries can do better.
+
+___
+
+## Which Age Group Does The Company"s Product Appeal To Most
+![image alt]()
+
